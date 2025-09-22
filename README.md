@@ -1,14 +1,14 @@
-# Mondtholomew
+# Mondtholomewtholomew
 
-Mond but it work
+Mondtholomew but it work
 
 ---
 
 ## Table of contents
 
 1. [Mond Gallery](#gallery) - screenshots people have sent when asking for the (original) skin
-2. [Features](#features) - features of Mondtholomew
-3. [Installation](#installation) - how to install Mondtholomew
+2. [Features](#features) - features of Mondtholomewtholomew
+3. [Installation](#installation) - how to install Mondtholomewtholomew
 
 ## Mond Gallery
 
@@ -59,7 +59,7 @@ Mond but it work
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
-- Weather that actually works
+- Weather that actually works and actually works in 2025!!!
 - Seamless resizing with mousewheel
 - Easy centering through the right click menu options
 - Uses the local language format for dates
@@ -67,33 +67,21 @@ Mond but it work
   - Can be switched back to normal NowPlaying for local music players
 - Included visualizer!!
 
-You might also want to check out [my other skins]([https://github.com/reisir/robux](https://github.com/reisir?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=)), which include a robik rework.
+You might also want to check out [reisir's other skins]([https://github.com/reisir/robux](https://github.com/reisir?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=)), which include a robik rework.
 
 ## Installation
 
-How to install Mondtholomew.
+How to install Mondtholomewtholomew.
 
-### Installing Mondtholomew using Meters on Demand
-
-If you have the [Meters on Demand](https://github.com/meters-on-demand/cli) package manager installed, you may use the following command to install Mondtholomew:
-
-```
-mond install reisir/mondtholomew
-```
-
-### Installing Mondtholomew manually
-
+### Installing Mondtholomewtholomew manually
+Just find reisir's original fork about it!
+But use the Mondtholomewtholomew instead!
 Read the [install instructions](https://github.com/reisir/mondtholomew/wiki) on the [Mondtholomew wiki](https://github.com/reisir/mondtholomew/wiki).
-
-## TODO:
-
-- [ ] Player duration formatting for durations over an hour
-- [ ] Codebase cleanup it's a mess!!!
-  - Either move all of the code into their separate files or inline it all. Decide!
 
 ## Credits
 
 - Original [Mond](https://www.deviantart.com/apexxx-sensei/art/Mond-762455575) skin by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei)
+- Mondtholomew (https://github.com/reisir/mondtholomew)
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Factory.lua by [@undefinist](https://github.com/undefinist)
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
