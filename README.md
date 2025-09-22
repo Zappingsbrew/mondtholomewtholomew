@@ -81,10 +81,10 @@ Read the [install instructions](https://github.com/reisir/mondtholomew/wiki) on 
 ## Credits
 
 - Original [Mond](https://www.deviantart.com/apexxx-sensei/art/Mond-762455575) skin by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei)
-- Mondtholomew (https://github.com/reisir/mondtholomew)
+- [Mondtholomew](https://github.com/reisir/mondtholomew) skin by [@reisir](https://github.com/reisir)
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Factory.lua by [@undefinist](https://github.com/undefinist)
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
 - [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) plugin by [@keifufu](https://github.com/keifufu) & [@tjhrulz](https://github.com/tjhrulz)
 - [Mouse](https://github.com/NighthawkSLO/Mouse.dll) plugin by [@NighthawkSLO](https://github.com/NighthawkSLO)
-- Modified Anurati Free font with ÄÖÅ from a suspicious USB drive left on my doorstep
+- Modified Anurati Free font with ÄÖÅ from a suspicious USB drive left on reisir's doorstep
