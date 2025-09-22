@@ -67,14 +67,14 @@ Mondtholomew but it work
   - Can be switched back to normal NowPlaying for local music players
 - Included visualizer!!
 
-You might also want to check out [reisir's other skins]([https://github.com/reisir/robux](https://github.com/reisir?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=)), which include a robik rework.
+You might also want to check out [Reisir's other skins]([https://github.com/reisir/robux](https://github.com/reisir?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=)), which include a robik rework.
 
 ## Installation
 
 How to install Mondtholomewtholomew.
 
 ### Installing Mondtholomewtholomew manually
-Just find reisir's original fork about it!
+Just find Reisir's original fork about it!
 But use the Mondtholomewtholomew instead!
 Read the [install instructions](https://github.com/reisir/mondtholomew/wiki) on the [Mondtholomew wiki](https://github.com/reisir/mondtholomew/wiki).
 
@@ -87,4 +87,4 @@ Read the [install instructions](https://github.com/reisir/mondtholomew/wiki) on 
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
 - [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) plugin by [@keifufu](https://github.com/keifufu) & [@tjhrulz](https://github.com/tjhrulz)
 - [Mouse](https://github.com/NighthawkSLO/Mouse.dll) plugin by [@NighthawkSLO](https://github.com/NighthawkSLO)
-- Modified Anurati Free font with ÄÖÅ from a suspicious USB drive left on reisir's doorstep
+- Modified Anurati Free font with ÄÖÅ from a suspicious USB drive left on Reisir's doorstep
