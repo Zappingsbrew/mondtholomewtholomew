@@ -67,16 +67,20 @@ Mondtholomew but it work
   - Can be switched back to normal NowPlaying for local music players
 - Included visualizer!!
 
-You might also want to check out [Reisir's other skins]([https://github.com/reisir/robux](https://github.com/reisir?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=)), which include a robik rework.
+You might also want to check out my [other skins](https://github.com/Zappingsbrew?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=), which include a [robux rework](https://github.com/Zappingsbrew/roblux).
 
 ## Installation
 
 How to install Mondtholomewtholomew.
 
 ### Installing Mondtholomewtholomew manually
-Just find Reisir's original fork about it!
-But use the Mondtholomewtholomew instead!
-Read the [install instructions](https://github.com/reisir/mondtholomew/wiki) on the [Mondtholomew wiki](https://github.com/reisir/mondtholomew/wiki).
+Read the [install instructions](https://github.com/Zappingsbrew/mondtholomewtholomew/wiki#installing-mondtholomewtholomew) on the [Mondtholomewtholomew wiki](https://github.com/Zappingsbrew/mondtholomewtholomew/wiki).
+
+## REISIR'S WISHES:
+
+- [ ] Player duration formatting for durations over an hour
+- [ ] Codebase cleanup it's a mess!!!
+  - Either move all of the code into their separate files or inline it all. Decide!
 
 ## Credits
 
