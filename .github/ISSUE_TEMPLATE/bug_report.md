@@ -7,7 +7,7 @@ assignees: reisir
 
 ---
 
-Please do not use GitHub issues as help requests. If you need help using Mondtholomew or Rainmeter in general, join the Rainmeter discord server: https://discord.gg/rainmeter and ask in the #help channel. Remove this disclaimer once you've filled out the bug report.
+Please do not use GitHub issues as help requests. If you need help using Mondtholomewtholomew or Rainmeter in general, join the Rainmeter discord server: https://discord.gg/rainmeter and ask in the #help channel. Remove this disclaimer once you've filled out the bug report.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -28,7 +28,7 @@ If applicable, add screenshots to help explain your problem.
 **Environment (please complete the following information):**
  - Windows version: 
  - Rainmeter version:
- - Mondtholomew version:
+ - Mondtholomewtholomew version:
 
 **Additional context**
 Add any other context about the problem here.

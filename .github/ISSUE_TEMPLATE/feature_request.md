@@ -7,7 +7,7 @@ assignees: reisir
 
 ---
 
-Please do not use GitHub issues as help requests. If you need help using Mondtholomew or Rainmeter in general, join the Rainmeter discord server: https://discord.gg/rainmeter and ask in the #help channel. Remove this disclaimer once you've filled out the feature request.
+Please do not use GitHub issues as help requests. If you need help using Mondtholomewtholomew or Rainmeter in general, join the Rainmeter discord server: https://discord.gg/rainmeter and ask in the #help channel. Remove this disclaimer once you've filled out the feature request.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
