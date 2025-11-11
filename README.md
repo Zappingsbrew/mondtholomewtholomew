@@ -59,13 +59,13 @@ Mondtholomew but it work
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use original Mond font" context action.
-- Weather that actually works and actually works in 2025!!!
+- Weather that actually works and actually works in 2025 and beyond!!
 - Seamless resizing with mousewheel
 - Easy centering through the right click menu options
 - Uses the local language format for dates
 - Uses WebNowPlaying for browser and Spotify media info
   - Can be switched back to normal NowPlaying for local music players
-- Included visualizer!!
+- Visualizer included!!
 
 You might also want to check out my [other skins](https://github.com/zappingsbrew?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=), which include a [robux rework](https://github.com/zappingsbrew/roblux).
 
