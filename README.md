@@ -67,14 +67,14 @@ Mondtholomew but it work
   - Can be switched back to normal NowPlaying for local music players
 - Included visualizer!!
 
-You might also want to check out my [other skins](https://github.com/Zappingsbrew?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=), which include a [robux rework](https://github.com/Zappingsbrew/roblux).
+You might also want to check out my [other skins](https://github.com/zappingsbrew?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=), which include a [robux rework](https://github.com/zappingsbrew/roblux).
 
 ## Installation
 
 How to install Mondtholomewtholomew.
 
 ### Installing Mondtholomewtholomew manually
-Read the [install instructions](https://github.com/Zappingsbrew/mondtholomewtholomew/wiki#installing-mondtholomewtholomew) on the [Mondtholomewtholomew wiki](https://github.com/Zappingsbrew/mondtholomewtholomew/wiki).
+Read the [install instructions](https://github.com/zappingsbrew/mondtholomewtholomew/wiki#installing-mondtholomewtholomew) on the [Mondtholomewtholomew wiki](https://github.com/zappingsbrew/mondtholomewtholomew/wiki).
 
 ## REISIR'S WISHES:
 
